@@ -5,7 +5,7 @@
 */
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDEOpXJ9PIhFOteQJqTxgBgnaxPiw-IeMI",
+    apiKey: "enter your api key",
     authDomain: "gym-trainer-aman.firebaseapp.com",
     databaseURL: "https://gym-trainer-aman-default-rtdb.firebaseio.com",
     projectId: "gym-trainer-aman",
